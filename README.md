@@ -6,10 +6,10 @@ To help health care providers with their diagnosis and to explore the behavior o
 - Editor: Jupyter Notebook
 - Programming Langauge: Python
 - Libraries required:
-- - Pandas
-- - NumPy
-- - Matplotlib
-- - Seaborn
-- - Tabulate (to create tables)
+  - Pandas
+  - NumPy
+  - Matplotlib
+  - Seaborn
+  - Tabulate (to create tables)
 
 Thses libraries can be installed using the command, "pip install ____" (blank: library name) through command line interface.
