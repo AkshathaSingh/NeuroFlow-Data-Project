@@ -1,6 +1,6 @@
 # NeuroFlow-Data-Project
 
-To help health care providers with their diagnosis and to explore the behavior of mental health issues patients and find a pattern, carried out an exploratory data analysis using the patients data from the GAD-7 assessents.
+To help health care providers with their diagnosis and to explore the behavior of mental health issues patients and find a pattern, carried out an exploratory data analysis on the patients data from the GAD-7 assessents.
 
 #### Instructions to run the file:
 - Editor: Jupyter Notebook
