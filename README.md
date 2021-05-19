@@ -12,4 +12,4 @@ To assist health care providers with their diagnosis, explored the behavior of m
   - Seaborn
   - Tabulate (to create tables)
 
-Thses libraries can be installed using the command, "pip install ____" (blank: library name) through command line interface.
+These libraries can be installed using the command, "pip install ____" (blank: library name) through command line interface.
